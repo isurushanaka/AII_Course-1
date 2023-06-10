@@ -1,0 +1,2 @@
+#### Classification in IoT
+Daily Sports and Activities data set from the UCI Machine Learning Repository. The goal of this work is to train a classifier to predict which activities users are engaging in based on sensor data collected from devices attached to all four limbs and the torso. This will be accomplished by cleverly feature engineering the sensor data and training machine learning classifiers.
